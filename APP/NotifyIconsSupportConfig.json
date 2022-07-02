@@ -2541,5 +2541,13 @@
     "contributorName": "HeMing505",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+  "appName": "夸克", 
+  "packageName": "com.quark.browser", 
+  "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAADtSURBVHja7JhLDoAgDESdxvtfeVyZGG2gX3Qha+hj6AcKuPWP3TRrtBPMl4MZgBE0hnjOEhFIxFnwQDLRoICkGKGulmKEakHKEYoVaUA8LEkL4mZNFlSVSwh7M9sxfw9HP+xHfCrJlMDp2gqfwKaEmUK+TS1Ibo+2URXCmEHYiuFYCaqScUnGS6EOfFTJD/kexJ+i7FfC2IObhlxhv09o9wmCRmitAwuja6QldxGY7/j0fWN/dyHegYkjkhhVd22CqhthvFa70KPjrgQdiOdxoR6h+QTVCN3xqEW8+lmw7Nsj2uaFINk+zAxJjmMANKc8SqlUhdUAAAAASUVORK5CYII=", 
+ "contributorName": "Mio-Feng", 
+  "isEnabled": true, 
+  "isEnabledAll": false 
   }
 ]
